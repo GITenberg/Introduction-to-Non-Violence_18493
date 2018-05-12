@@ -1,0 +1,26 @@
+_repo: Introduction-to-Non-Violence_18493
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18493-h/images/front-cover.jpg
+creator:
+  author:
+    agent_name: Paullin, Theodore
+    gutenberg_agent_id: '8066'
+    url: http://www.gutenberg.org/2009/agents/8066
+description: ''
+gutenberg_issued: '2006-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War'
+- !lcsh 'Pacifism'
+- !lcc 'HM'
+- !lcsh 'Passive resistance'
+title: Introduction to Non-Violence
+url: http://www.gutenberg.org/ebooks/18493
